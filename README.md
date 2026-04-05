@@ -1,31 +1,75 @@
 # 👋 Hi, I'm Fahim Rafi
 
-💻 Passionate Web Developer  
-🚀 I build modern, responsive, and user-friendly web applications  
+💻 **Web Developer**  
+🚀 متخصص in building modern, responsive, and user-friendly web applications  
+⚡ Focused on **Next.js, React, and clean UI/UX**
 
 ---
 
 ## 🔥 Featured Projects
-- 🏡 Property Search App → https://aranest-property-searching-website.vercel.app/
-- 🛒 E-Commerce Website → https://e-commerce-iota-teal-94.vercel.app/
-- 🎨 NFT Marketplace → https://nft-marketplace-flax-iota.vercel.app/
-- 🌐 Portfolio Website → https://rudrogorjon.vercel.app/
+
+### 🏡 Property Search Platform  
+🔗 https://aranest-property-searching-website.vercel.app/  
+- Advanced property search system  
+- Interactive Google Maps integration  
+- Dynamic listings with modern UI  
 
 ---
 
-## 🛠️ Skills
-- Frontend: React, Next.js  
-- Styling: Tailwind CSS, CSS  
-- Tools: Git, GitHub, Vercel  
+### 🛒 E-Commerce Website  
+🔗 https://e-commerce-iota-teal-94.vercel.app/  
+- Product browsing and cart system  
+- Smooth user experience  
+- Fully responsive design  
+
+---
+
+### 🎨 NFT Marketplace  
+🔗 https://nft-marketplace-flax-iota.vercel.app/  
+- Modern Web3-style UI  
+- NFT listing interface  
+- Interactive frontend components  
+
+---
+
+### 🌐 Personal Portfolio  
+🔗 https://rudrogorjon.vercel.app/  
+- Clean and minimal design  
+- Smooth navigation  
+- Responsive layout  
+
+---
+
+👉 🔗 **View All Projects:**  
+https://github.com/FahimRafi-Speedy/my-projects-portfolio  
+
+---
+
+## 🛠️ Tech Stack
+
+💡 **Frontend:**  
+`React` `Next.js` `JavaScript`  
+
+🎨 **Styling:**  
+`Tailwind CSS` `CSS`  
+
+🧰 **Tools:**  
+`Git` `GitHub` `Vercel`  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=FahimRafi-Speedy&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimRafi-Speedy&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FahimRafi-Speedy&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahimRafi-Speedy&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/FahimRafi-Speedy
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/FahimRafi-Speedy  
+
+---
+
+✨ *Always learning, building, and improving...*
