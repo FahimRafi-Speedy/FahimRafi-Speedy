@@ -30,6 +30,19 @@
 
 ---
 
+<!-- 🚀 CTA SECTION -->
+<p align="center">
+  ⬇️ <b>Scroll down to explore my projects</b> ⬇️
+</p>
+
+<p align="center">
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/🚀%20View%20Projects-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Building+Modern+Web+Apps;Writing+Clean+Code;Improving+UI%2FUX;Exploring+New+Technologies" />
 </p>
@@ -42,7 +55,6 @@
 <p align="center">
 
 ### 🌐 RudroGorjon Personal Portfolio Website  
-
 
 🔗 Live: https://rudrogorjon.vercel.app/
 
@@ -62,7 +74,6 @@
 
 ### 🛒 Eyewear E-Commerce Website  
 
-
 🔗 Live: https://e-commerce-iota-teal-94.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://e-commerce-iota-teal-94.vercel.app/)  
@@ -81,7 +92,6 @@
 
 ### 🎨 NFT Marketplace  
 
-
 🔗 Live: https://nft-marketplace-flax-iota.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://nft-marketplace-flax-iota.vercel.app/)  
@@ -99,7 +109,6 @@
 <p align="center">
 
 ### 🏡 Property Search Platform  
-
 
 🔗 Live: https://aranest-property-searching-website.vercel.app/
 
