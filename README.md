@@ -1,12 +1,21 @@
-<h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/FahimRafi-Speedy.png" width="180" style="border-radius:50%;" />
+      <h3>Fahim Rafi</h3>
+      <p>Web Developer</p>
+    </td>
+    <td width="70%">
 
-<p align="center">
-💻 Web Developer • ⚡ Next.js & React • 🎯 Clean UI/UX Focused
-</p>
+# 👋 Hi, I'm Fahim Rafi
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;Always+Learning+New+Things" />
-</p>
+💻 Passionate Web Developer  
+⚡ Skilled in building modern, responsive, and user-friendly web applications  
+🚀 Focused on Next.js, React, and clean UI/UX  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,38 +23,44 @@
 
 ### 🏡 Property Search Platform  
 🔗 https://aranest-property-searching-website.vercel.app/  
-✨ Advanced search • 🗺️ Google Maps integration • 📊 Dynamic listings  
+✨ Advanced property search system  
+✨ Google Maps integration  
+✨ Dynamic listings with modern UI  
 
 ---
 
 ### 🛒 E-Commerce Website  
 🔗 https://e-commerce-iota-teal-94.vercel.app/  
-🛍️ Product system • 🛒 Add to cart • 📱 Responsive design  
+✨ Product browsing system  
+✨ Add to cart functionality  
+✨ Responsive UI/UX  
 
 ---
 
 ### 🎨 NFT Marketplace  
 🔗 https://nft-marketplace-flax-iota.vercel.app/  
-🎭 Web3 UI • 🖼️ NFT listing • ⚡ Interactive frontend  
+✨ Web3-style modern UI  
+✨ NFT listing interface  
+✨ Interactive components  
 
 ---
 
 ### 🌐 Personal Portfolio  
 🔗 https://rudrogorjon.vercel.app/  
-🎨 Minimal design • ⚡ Smooth UX • 📱 Fully responsive  
+✨ Clean and minimal design  
+✨ Smooth navigation  
+✨ Fully responsive layout  
 
 ---
 
-<p align="center">
-👉 <b>View All Projects:</b><br>
-<a href="https://github.com/FahimRafi-Speedy/my-projects-portfolio">My Projects Portfolio</a>
-</p>
+👉 **View All Projects:**  
+https://github.com/FahimRafi-Speedy/my-projects-portfolio  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,git,github,vercel" />
 </p>
 
@@ -53,24 +68,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FahimRafi-Speedy&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimRafi-Speedy&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-<a href="https://github.com/FahimRafi-Speedy">GitHub Profile</a>
-</p>
+🔗 GitHub: https://github.com/FahimRafi-Speedy  
 
 ---
 
-<p align="center">
-✨ <i>Always learning, building, and improving...</i>
-</p>
+✨ Always learning, building, and improving...
