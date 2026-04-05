@@ -1,8 +1,5 @@
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="https://github.com/FahimRafi-Speedy.png" width="140" style="border-radius:50%;" />
-    </td>
     <td width="75%">
 
 # 👋 Hi, I'm Fahim Rafi
