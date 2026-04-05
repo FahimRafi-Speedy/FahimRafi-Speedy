@@ -1,12 +1,7 @@
 <!-- 🎨 GRADIENT HEADER -->
+<!-- 🎨 PROFESSIONAL GRADIENT HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fahim%20Rafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
@@ -45,7 +40,6 @@
 
 ### 🌐 RudroGorjon Personal Portfolio Website  
 
-<img src="https://via.placeholder.com/800x400.png?text=Portfolio+Project" width="80%"/>
 
 🔗 Live: https://rudrogorjon.vercel.app/
 
@@ -65,7 +59,6 @@
 
 ### 🛒 Eyewear E-Commerce Website  
 
-<img src="https://via.placeholder.com/800x400.png?text=Ecommerce+Project" width="80%"/>
 
 🔗 Live: https://e-commerce-iota-teal-94.vercel.app/
 
@@ -85,7 +78,6 @@
 
 ### 🎨 NFT Marketplace  
 
-<img src="https://via.placeholder.com/800x400.png?text=NFT+Marketplace" width="80%"/>
 
 🔗 Live: https://nft-marketplace-flax-iota.vercel.app/
 
@@ -105,7 +97,6 @@
 
 ### 🏡 Property Search Platform  
 
-<img src="https://via.placeholder.com/800x400.png?text=Property+Search" width="80%"/>
 
 🔗 Live: https://aranest-property-searching-website.vercel.app/
 
