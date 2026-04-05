@@ -6,15 +6,35 @@
 
 <p align="center">
   
-![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)  
+![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FahimRafi-Speedy?style=social)
 
 </p>
 
 <p align="center">
-💻 Web Developer  
+💻 **Web Developer**  
 🚀 Skilled in building modern, responsive, and user-friendly web applications  
-⚡ Focused on <b>Next.js, React, and clean UI/UX</b>
+⚡ Focused on **Next.js, React, and clean UI/UX**
+</p>
+
+---
+
+## 🧾 About Me
+
+<p align="center">
+
+- 🔭 Currently working on modern web applications  
+- 🌱 Learning advanced **Next.js** and frontend architecture  
+- 💡 Passionate about clean, scalable UI/UX design  
+- 🎯 Focused on performance and user experience  
+- 🚀 Turning ideas into real-world projects  
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Building+Modern+Web+Apps;Writing+Clean+Code;Improving+UI%2FUX;Exploring+New+Technologies" />
 </p>
 
 ---
