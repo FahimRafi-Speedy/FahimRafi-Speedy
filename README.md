@@ -1,3 +1,7 @@
+<!-- 🎨 GRADIENT HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fahim%20Rafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
 
@@ -66,7 +70,7 @@
 🔗 Live: https://e-commerce-iota-teal-94.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://e-commerce-iota-teal-94.vercel.app/)  
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy/E-commerce)
 
 - Product browsing and cart system  
 - Smooth user experience  
@@ -120,18 +124,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,git,github,vercel" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FahimRafi-Speedy&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimRafi-Speedy&layout=compact&theme=tokyonight" />
 </p>
 
 ---
