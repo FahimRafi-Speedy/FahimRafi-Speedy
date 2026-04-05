@@ -3,8 +3,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- ✨ TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
+</p>
+
+<!-- ⭐ CTA SECTION (NOW ABOVE ABOUT) -->
+<p align="center">
+  ⬇️ <b>Scroll down to explore my projects</b> ⬇️
+</p>
+
+<p align="center">
+  <a href="#-featured-projects">
+    <img src="https://img.shields.io/badge/🚀%20View%20Projects-Click%20Here-blue?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -30,19 +42,6 @@
 
 ---
 
-<!-- 🚀 CTA SECTION -->
-<p align="center">
-  ⬇️ <b>Scroll down to explore my projects</b> ⬇️
-</p>
-
-<p align="center">
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/🚀%20View%20Projects-Click%20Here-blue?style=for-the-badge" />
-  </a>
-</p>
-
----
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Building+Modern+Web+Apps;Writing+Clean+Code;Improving+UI%2FUX;Exploring+New+Technologies" />
 </p>
@@ -51,7 +50,13 @@
 
 ## 🔥 Featured Projects
 
-<!-- PROJECT CARD 1 -->
+<p align="center">
+<i>Here are some of my selected works 👇</i>
+</p>
+
+---
+
+<!-- PROJECT 1 -->
 <p align="center">
 
 ### 🌐 RudroGorjon Personal Portfolio Website  
@@ -69,7 +74,7 @@
 
 ---
 
-<!-- PROJECT CARD 2 -->
+<!-- PROJECT 2 -->
 <p align="center">
 
 ### 🛒 Eyewear E-Commerce Website  
@@ -87,7 +92,7 @@
 
 ---
 
-<!-- PROJECT CARD 3 -->
+<!-- PROJECT 3 -->
 <p align="center">
 
 ### 🎨 NFT Marketplace  
@@ -105,7 +110,7 @@
 
 ---
 
-<!-- PROJECT CARD 4 -->
+<!-- PROJECT 4 -->
 <p align="center">
 
 ### 🏡 Property Search Platform  
