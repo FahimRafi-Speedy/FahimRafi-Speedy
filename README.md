@@ -1,12 +1,7 @@
 
-<!-- 🎨 GRADIENT BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Fahim%20Rafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
 
-<p align="center">
+<p>
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
 </p>
 
@@ -20,7 +15,7 @@
 <p align="center">
 💻 **Web Developer**  
 🚀 Skilled in building modern, responsive, and user-friendly web applications  
-⚡ Focused on **Next.js, React, and clean UI/UX**
+⚡ Focused on Next.js, React and clean UI/UX
 </p>
 
 ---
@@ -57,7 +52,7 @@
 🔗 Live: https://rudrogorjon.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://rudrogorjon.vercel.app/)  
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy/Rudrogorjon)
 
 - Clean and minimal design  
 - Smooth navigation  
@@ -97,7 +92,7 @@
 🔗 Live: https://nft-marketplace-flax-iota.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://nft-marketplace-flax-iota.vercel.app/)  
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy/NFT-Marketplace)
 
 - Modern Web3-style UI  
 - NFT listing interface  
@@ -117,7 +112,7 @@
 🔗 Live: https://aranest-property-searching-website.vercel.app/
 
 [![Live](https://img.shields.io/badge/Live-View-green?style=for-the-badge)](https://aranest-property-searching-website.vercel.app/)  
-[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy)
+[![Code](https://img.shields.io/badge/Code-GitHub-black?style=for-the-badge)](https://github.com/FahimRafi-Speedy/Aranest-Property-Searching-Website-Real-Estate)
 
 - Advanced property search system  
 - Google Maps integration  
