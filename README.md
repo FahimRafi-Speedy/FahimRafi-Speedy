@@ -1,11 +1,19 @@
 <table>
   <tr>
-    <td width="75%">
+    <td align="center" width="100%">
 
 # 👋 Hi, I'm Fahim Rafi
 
-![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  
+![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)  
 ![GitHub followers](https://img.shields.io/github/followers/FahimRafi-Speedy?style=social)
+
+</p>
 
 💻 **Web Developer**  
 🚀 Skilled in building modern, responsive, and user-friendly web applications  
@@ -14,10 +22,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;Always+Learning+New+Things" />
-</p>
 
 ---
 
@@ -71,12 +75,32 @@ https://github.com/FahimRafi-Speedy/my-projects-portfolio
 🧰 **Tools:**  
 `Git` `GitHub` `Vercel`  
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,git,github,vercel" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FahimRafi-Speedy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimRafi-Speedy&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-🔗 GitHub: https://github.com/FahimRafi-Speedy  
+<p align="center">
+🔗 GitHub: https://github.com/FahimRafi-Speedy
+</p>
 
 ---
 
-✨ *Always learning, building, and improving...*
+<p align="center">
+✨ <i>Always learning, building, and improving...</i>
+</p>
