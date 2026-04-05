@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
 
-<p>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
 </p>
 
@@ -10,12 +10,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FahimRafi-Speedy?style=social)
 
-</p>
-
-<p align="center">
-💻 **Web Developer**  
-🚀 Skilled in building modern, responsive, and user-friendly web applications  
-⚡ Focused on Next.js, React and clean UI/UX
 </p>
 
 ---
