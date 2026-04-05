@@ -10,7 +10,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/FahimRafi-Speedy?style=social)
 
-
 💻 **Web Developer**  
 🚀 Skilled in building modern, responsive, and user-friendly web applications  
 ⚡ Focused on **Next.js, React, and clean UI/UX**
@@ -27,15 +26,15 @@
 
 ## 🔥 Featured Projects
 
-### 🌐 RudroGorjon Personal Portfolio Website  
+### 1️⃣ 🌐 RudroGorjon Personal Portfolio Website  
 🔗 https://rudrogorjon.vercel.app/  
 - Clean and minimal design  
 - Smooth navigation  
-- Responsive layout
+- Responsive layout  
 
 ---
 
-### 🛒 Eyewear E-Commerce Website  
+### 2️⃣ 🛒 Eyewear E-Commerce Website  
 🔗 https://e-commerce-iota-teal-94.vercel.app/  
 - Product browsing and cart system  
 - Smooth user experience  
@@ -43,7 +42,7 @@
 
 ---
 
-### 🎨 NFT Marketplace  
+### 3️⃣ 🎨 NFT Marketplace  
 🔗 https://nft-marketplace-flax-iota.vercel.app/  
 - Modern Web3-style UI  
 - NFT listing interface  
@@ -51,7 +50,7 @@
 
 ---
 
-- ### 🏡 Property Search Platform  
+### 4️⃣ 🏡 Property Search Platform  
 🔗 https://aranest-property-searching-website.vercel.app/  
 - Advanced property search system  
 - Interactive Google Maps integration  
@@ -76,7 +75,6 @@ https://github.com/FahimRafi-Speedy/my-projects-portfolio
 `Git` `GitHub` `Vercel`  
 
 ---
-
 
 ## 📫 Connect With Me
 
