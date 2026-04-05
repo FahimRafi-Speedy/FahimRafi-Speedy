@@ -1,11 +1,7 @@
-<table>
-  <tr>
-    <td align="center" width="100%">
-
-# 👋 Hi, I'm Fahim Rafi
+<h1 align="center">👋 Hi, I'm Fahim Rafi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -15,13 +11,11 @@
 
 </p>
 
-💻 **Web Developer**  
+<p align="center">
+💻 Web Developer  
 🚀 Skilled in building modern, responsive, and user-friendly web applications  
-⚡ Focused on **Next.js, React, and clean UI/UX**
-
-    </td>
-  </tr>
-</table>
+⚡ Focused on <b>Next.js, React, and clean UI/UX</b>
+</p>
 
 ---
 
@@ -59,21 +53,26 @@
 
 ---
 
-👉 🔗 **View All Projects:**  
-https://github.com/FahimRafi-Speedy/my-projects-portfolio  
+<p align="center">
+👉 <b>View All Projects:</b><br>
+https://github.com/FahimRafi-Speedy/my-projects-portfolio
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-💡 **Frontend:**  
-`React` `Next.js` `JavaScript`  
+<p align="center">
+💡 Frontend: React • Next.js • JavaScript  
+</p>
 
-🎨 **Styling:**  
-`Tailwind CSS` `CSS`  
+<p align="center">
+🎨 Styling: Tailwind CSS • CSS  
+</p>
 
-🧰 **Tools:**  
-`Git` `GitHub` `Vercel`  
+<p align="center">
+🧰 Tools: Git • GitHub • Vercel  
+</p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,git,github,vercel" />
