@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" /> </p>
+
 <p align="center">
   
 ![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
