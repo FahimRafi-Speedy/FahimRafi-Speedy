@@ -1,12 +1,14 @@
 <!-- 🎨 GRADIENT HEADER -->
-<p align="center" style="margin-bottom:-40px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
+  <img style="display:block; margin-bottom:0px;"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
 
 <!-- ✨ TYPING -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
-</p>
+<div align="center" style="margin-top:-10px;">
+  <img style="display:block;"
+    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Web+Developer;Next.js+Developer;React+Enthusiast;UI%2FUX+Focused;Always+Learning+New+Things" />
+</div>
 
 <!-- ⭐ CTA SECTION (NOW ABOVE ABOUT) -->
 <p align="center">
@@ -26,7 +28,7 @@
 
 </p>
 
-## 🧠 Languages
+## ⚙️ Languages
 
 <p align="left">
 
@@ -42,7 +44,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
 
