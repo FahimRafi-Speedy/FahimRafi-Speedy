@@ -30,11 +30,11 @@
 
 <p align="center">
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
+<img src="https://img.shields.io/badge/C-111?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-111?style=flat&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-111?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/PHP-111?style=flat&logo=php&logoColor=white" />
 
 </p>
 
@@ -44,13 +44,13 @@
 
 <p align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<img src="https://img.shields.io/badge/Next.js-111?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-111?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-111?style=flat&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111?style=flat&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind-111?style=flat&logo=tailwindcss&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/Git-111?style=flat&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=white" />
 
 </p>
 
