@@ -1,7 +1,7 @@
 <!-- 🎨 GRADIENT HEADER -->
 <div align="center">
   <img style="display:block; margin-bottom:0px;"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=👋%20Hi,%20I'm%20Fahim%20Rafi&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <!-- ✨ TYPING -->
